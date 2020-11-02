@@ -1,1 +1,1 @@
-# busines-card
+# business-card
